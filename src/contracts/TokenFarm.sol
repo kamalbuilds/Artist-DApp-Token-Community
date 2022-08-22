@@ -14,8 +14,8 @@ contract TokenFarm {
     mapping(address => bool) public hasStaked;
     mapping(address => bool) public isStaking;
 
-    constructor(ArtToken artToken, DaiToken _daiToken) public {
-        artToken = artToken;
+    constructor(ArtToken _artToken, DaiToken _daiToken) public {
+        artToken = _artToken;
         daiToken = _daiToken;
         owner = msg.sender;
     }

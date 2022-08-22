@@ -129,6 +129,8 @@ class App extends Component {
                 >
                 </a>
                 <AristCard />
+                <h3>Stake your tokens on the Art/Music Forms you loved now!</h3>
+                
                 {content}
 
               </div>
