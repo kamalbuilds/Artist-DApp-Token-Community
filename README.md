@@ -1,7 +1,10 @@
 # Artist-DApp-Token-Community
 Building for Polygon Summer Hack Web3 
 
-Live Demo of the Application - https://youtu.be/P63MMDTNafk .
+Live Demo of the Application 
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/P63MMDTNafk "ARTIST DAPP")
+
 ## Inspiration
 This project has been inspired from the zeal to create a community for the Artists/Singers/Podcasters and for the people who love their Art/Music form and wish to support them and earn some rewards :)
 ## What it does
